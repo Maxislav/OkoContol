@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ver">Версия 1.0</string>
+    <string name="app_name">AVTO-control</string>
+
+
+    <string name="menu_about">О программе</string>
+    <string name="settings_title">Настройки</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="about_title">О программе</string>
+    <string name="about">Программа управления основными функциями автомобильной GSM-сигнализации ОКО. Управление происходит с помощью sms-сообщений. Сайт производителя www.oko.tm </string>
+    <string name="web_server">Веб-сервер ОКО www.server.oko.tm </string>
+    <string name="manuf">Сайт производителя www.oko.tm </string>
+    <string name="enter_phone">Телефонный номер GSM-сигнализации</string>
+    <string name="enter_password">Пароль управления GSM-сигнализации</string>
+
+    <string name="text_1">ОХРАНА АВТОМОБЛИЯ</string>
+    <string name="text_on">ВКЛЮЧИТЬ</string>
+    <string name="text_off">ВЫКЛЮЧИТЬ</string>
+    <string name="text_2">БЛОКИРОВКА ДВИГАТЕЛЯ</string>
+
+
+    <color name="background_color_pink">#ffc0cb</color>
+    <color name="background_color_white">#ffffff</color>
+
+</resources>
